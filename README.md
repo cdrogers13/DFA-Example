@@ -1,2 +1,2 @@
 # DFA-Example
-Deterministic Finite Automata Class Project
+Deterministic Finite Automata That Reads Binary Input And Accepts Language Where (x mod 8) = 3.
